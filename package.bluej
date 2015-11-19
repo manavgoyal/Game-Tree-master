@@ -1,0 +1,16 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=251
+package.editor.y=228
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.height=62
+target1.name=player
+target1.type=PackageTarget
+target1.width=80
+target1.x=320
+target1.y=50

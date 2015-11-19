@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xx1\ yy1\ xx2\ yy2
+comment0.target=Move(int,\ int,\ int,\ int)
+comment1.params=x\ y
+comment1.target=Move(int,\ int)
+comment2.params=
+comment2.target=Move()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

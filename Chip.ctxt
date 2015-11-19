@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=colour\ xposition\ yposition
+comment0.target=Chip(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ xPosition()
+comment2.params=
+comment2.target=int\ yPosition()
+comment3.params=
+comment3.target=int\ chipColour()
+comment4.params=change
+comment4.target=void\ isUsed(boolean)
+numComments=5
